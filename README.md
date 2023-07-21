@@ -21,5 +21,3 @@ To run the project open terminal and  run the command:
 ```
 $ npm run start
 ```
-## Credits
-For further help or additional errors [here](https://ru.reactjs.org/)
