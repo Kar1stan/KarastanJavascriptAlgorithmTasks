@@ -1,6 +1,6 @@
-# QATasksTest
+# KarastanJavascriptAlgorithmTasks
 ***
-4 simple algoritm tasks
+Javascript file with 4 simple algorithm tasks.
 
 ## 💻 Pre-requisites
 
@@ -11,8 +11,8 @@ https://nodejs.org/es/download/
 ### Git clone
 This will clone the project, install NPM packages.
 ```
-$ git clone https://github.com/Kar1stan/QATasksTest.git
-$ cd QATasksTest
+$ git clone https://github.com/Kar1stan/KarastanJavascriptAlgorithmTasks.git
+$ cd KarastanJavascriptAlgorithmTasks
 $ npm install
 ```
 
