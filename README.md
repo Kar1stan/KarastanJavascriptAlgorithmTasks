@@ -1,6 +1,6 @@
 # KarastanJavascriptAlgorithmTasks
 ***
-Javascript file with 4 simple algorithm tasks.
+Javascript file with 3 simple algorithm tasks and 1 with brackets.
 
 ## 💻 Pre-requisites
 
